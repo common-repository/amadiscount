@@ -1,0 +1,115 @@
+.btn_pre { float: left; width: 140px; text-decoration:none; }
+input.btn_square {  border: 2px solid #bcbcbc !important; border-radius: 25px !important; color: #555555; padding: 10px 8px !important; text-transform: none !important; }
+input.btn_round {  border: 2px solid #bcbcbc !important; border-radius: 5px !important; color: #555555; padding: 3px 8px !important; text-transform: none !important; }
+input.btn_shadow { border: 2px solid #bcbcbc !important; border-radius: 5px !important; color: #555555; padding: 3px 5px !important; box-shadow: 0 2px 0 #000 !important; text-transform: none !important; }
+label.field_label { float: left; width: 200px; }
+.field_content { float: left; height: 40px; width: 100%; }
+.field_content select { width: 192px; }
+.manage_btns { float: left; width: 860px; }
+table#btn_table {  }
+#search_logo { width: 240px; }
+#plugin_title { width:400px; text-align:center; font-size: 24px; margin-bottom: 1vh; }
+#plugin_slogan { width:400px; text-align:center; font-size: 18px; margin-bottom: 1vh; }
+.form_section { margin-top: 2vh; }
+.empty_data { text-align: center; }
+.my_buttons { padding: 20px 0; }
+.text_field { height: 30px; padding: 5px; width: 400px }
+#check_preview, #submit_changes, #del_this_btn, #submit_post { border: 1px solid #555; border-radius: 5px; cursor: pointer; padding: 6px 8px; }
+#btn_table tr td { text-align: center; }
+.extra_class { padding-top: 10px; }
+.error_msg { color: red; float: left; margin-top: -25px; }
+.show_buttons { border: 1px solid; border-radius: 5px; padding: 5px 8px; cursor: pointer; }
+.set_order { width: 50px; }
+.message { color: red; }
+#search_form_cover { position:absolute; top:0px; left:0px; height:100vh; width:100vw; z-index:-1; }
+#search_logo_box { width:400px; text-align:center; margin-top: 2vh;}
+.select_box {
+	display: table; border: thin solid hsla(0,0%,71%,1.00);
+}
+#country_select_box { display:table; float: left; }
+#category_select_box { display:table; float: left; }
+.row { display: table-row; }
+.cell { display:table-cell; vertical-align:top; padding-left:1vw; padding-top: 1vh; }
+.cell2 { display:table-cell; vertical-align:top; padding-top: 1vh; }
+.country_selection {
+	z-index: 2;
+}
+.country_cell { display: table-cell; }
+#shop_box { display: table; margin-top: 3vh; }
+#keyword_logo_box {z-index:0}
+#min_discount {float: left;}
+#max_discount { float:right; }
+#discount { margin-left:auto; margin-right:auto;}
+.black { color:black; }
+.clickable { cursor:pointer; }
+.clickable:hover {color:black;}
+.short {width: 200px; }
+.btn_square {
+	display: inline-block;
+	cursor: pointer;
+	text-align: center;
+	height: auto;
+	border: 2px solid #bcbcbc !important;
+	border-radius: 25px !important;
+	color: #555555;
+	padding: 5px 5px !important;
+	text-transform: none !important;
+	text-decoration: none !important;
+	line-height: 100%;
+}
+#last_search_button {
+	margin-top: 1vh;
+}
+.btn_round { display: inline-block; cursor: pointer; text-align: center; height: auto; border: 2px solid #bcbcbc !important; border-radius: 5px !important; color: #555555; padding: 3px 5px !important; text-transform: none !important; }
+.btn_shadow { display: inline-block; cursor: pointer; text-align: center; height: auto; border: 2px solid #bcbcbc !important; border-radius: 5px !important; color: #555555; padding: 3px 5px !important; box-shadow: 0 2px 0 #000 !important; text-transform: none !important; }
+#adp_paid {
+	position:relative;
+	margin-top: 5vh;
+	margin-bottom: 2vh;
+}
+
+		#adp_table_header {
+		font-size: 14px;
+		margin-bottom: 2vh;
+	}
+	.adp_results_table {
+		display:table;
+		font-size: 14px;
+		
+	}
+	.adp_results_table a:hover, .adp_results_table a:visited,.adp_results_table a:link,.adp_results_table a:active {
+	color: #263A73;
+		text-decoration:;!important
+		border:none;
+	}
+	.row {
+		display:table-row;	
+	}
+	.adp_results_title {
+		display:table-cell;
+		background-color:#DAEDF6;
+		color:black;
+		font-weight:bold;
+		text-align:left;
+	}
+	.adp_results {
+		display:table-cell;
+		padding-top: 1vh;
+		padding-bottom:1vh;
+		padding-left:0.5vw;
+		text-align:left;
+		vertical-align:top;
+	}
+	.wide {
+		width: 360px;
+	}
+	.narrow {
+		width:90px;
+	}
+	.very_narrow {
+		width: 40px;
+	}
+	.centred {
+		text-align:center;
+		padding-left:0px;
+	}
